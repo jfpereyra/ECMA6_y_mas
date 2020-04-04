@@ -20,3 +20,5 @@ let exponent = 3
 let resultado = base ** exponent
 
 console.log(resultado)
+
+console.log(resultado)
